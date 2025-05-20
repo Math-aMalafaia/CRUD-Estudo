@@ -1,0 +1,11 @@
+/crud_clientes
+│── /css
+│   └── estilo.css
+│── /includes
+│   ├── conexao.php
+│   └── funcoes.php
+│── cadastrar.php
+│── editar.php
+│── excluir.php
+│── index.php
+│── salvar.php
